@@ -1,0 +1,19 @@
+"date","continent","max_country","max_over_stringency_index","min_country","min_over_stringency_index"
+20200401,Africa,,,,
+20200401,Asia,,,,
+20200401,Europe,,,,
+20200401,North America,,,,
+20200401,Oceania,,,,
+20200401,South America,,,,
+20210401,Africa,,,,
+20210401,Asia,"Cyprus, Republic of",0.00988125625488795,Russian Federation,0.0000568801692126
+20210401,Europe,"Cyprus, Republic of",0.00988125625488795,Russian Federation,0.0000568801692126
+20210401,North America,,,,
+20210401,Oceania,,,,
+20210401,South America,,,,
+20220401,Africa,,,,
+20220401,Asia,"Cyprus, Republic of",0.0007186891465035,"Turkey, Republic of",0.0000106921373123
+20220401,Europe,"Cyprus, Republic of",0.0007186891465035,"Turkey, Republic of",0.0000106921373123
+20220401,North America,,,,
+20220401,Oceania,,,,
+20220401,South America,,,,
